@@ -59,10 +59,10 @@ msg = {
     "en_US": "Hello World !",         # Ingles
     "pt_BR": "Olá, Mundo!" ,          # Portugues BR
     "it_IT": "Ciao, Mondo!",          # Italiano
-    "ru-RU": "Привет, мир !",         # Russo
-    "fr-FR": "Bonjour le monde !" ,   # Francês 
-    "de-DE": "Hallo Welt !",          # alemão
-    "es-AR": "Hola Mundo !",          # Espanhol - Argentina
+    "ru_RU": "Привет, мир !",         # Russo
+    "fr_FR": "Bonjour le monde !" ,   # Francês 
+    "de_DE": "Hallo Welt !",          # alemão
+    "es_AR": "Hola Mundo !",          # Espanhol - Argentina
 }
 
 
