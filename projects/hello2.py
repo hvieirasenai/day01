@@ -56,13 +56,13 @@ if current_language == "pt_BR":
     msg = "Olá, Mundo!"
 elif current_language == "it_IT":
     msg = "Ciao, Mondo!"
-elif current_language == "ru-RU":
+elif current_language == "ru_RU":
     msg = "Привет, мир !"
-elif current_language == "fr-FR": # Francês 
+elif current_language == "fr_FR": # Francês 
     msg = "Bonjour le monde !"
-elif current_language == "de-DE": # alemão
+elif current_language == "de_DE": # alemão
     msg = "Hallo Welt !"
-elif current_language == "es-AR":
+elif current_language == "es_AR":
     msg = "Hola Mundo !"
 
 
